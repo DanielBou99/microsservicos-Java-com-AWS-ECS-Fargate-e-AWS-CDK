@@ -1,0 +1,2 @@
+br/com/siecola/aws_project02/AwsProject02Application.java
+ br.com.siecola.aws_project02.AwsProject02Application

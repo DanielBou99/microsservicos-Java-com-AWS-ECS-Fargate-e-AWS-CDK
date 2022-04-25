@@ -22,7 +22,7 @@ plugins {
 	id 'com.palantir.docker' version '0.22.1'
 }
 
-group = 'siecola'
+group = 'danielbou'
 version = '0.0.1-SNAPSHOT'
 sourceCompatibility = '15'
 
