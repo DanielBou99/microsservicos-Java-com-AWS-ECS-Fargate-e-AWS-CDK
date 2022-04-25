@@ -17,7 +17,7 @@ public class SnsStack extends Stack {
 
     public SnsStack(final Construct scope, final String id, final StackProps props) {
         super(scope, id, props);
-        
+
         productEventsTopic = SnsTopic.Builder.create(Topic.Builder.create(this, "ProductEventsTopic")
                 .topicName("product-events")
                 .build())
