@@ -1,10 +1,20 @@
 br/com/siecola/aws_project01/AwsProject01Application.java
  br.com.siecola.aws_project01.AwsProject01Application
+br/com/siecola/aws_project01/service/ProductPublisher.java
+ br.com.siecola.aws_project01.service.ProductPublisher
 br/com/siecola/aws_project01/controller/TestController.java
  br.com.siecola.aws_project01.controller.TestController
+br/com/siecola/aws_project01/model/Envelope.java
+ br.com.siecola.aws_project01.model.Envelope
 br/com/siecola/aws_project01/repository/ProductRepository.java
  br.com.siecola.aws_project01.repository.ProductRepository
 br/com/siecola/aws_project01/model/Product.java
  br.com.siecola.aws_project01.model.Product
+br/com/siecola/aws_project01/config/SnsConfig.java
+ br.com.siecola.aws_project01.config.SnsConfig
 br/com/siecola/aws_project01/controller/ProductController.java
  br.com.siecola.aws_project01.controller.ProductController
+br/com/siecola/aws_project01/model/ProductEvent.java
+ br.com.siecola.aws_project01.model.ProductEvent
+br/com/siecola/aws_project01/enums/EventType.java
+ br.com.siecola.aws_project01.enums.EventType
