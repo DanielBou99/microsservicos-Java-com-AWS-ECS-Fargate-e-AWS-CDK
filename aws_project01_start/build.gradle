@@ -58,6 +58,7 @@ dependencies {
 	compile group: 'org.mariadb.jdbc', name: 'mariadb-java-client', version: '2.7.0'
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
 	compile group: 'com.amazonaws', name: 'aws-java-sdk-sns', version: '1.11.887'
+	compile group: 'com.amazonaws', name: 'aws-java-sdk-sqs', version: '1.11.887'
 }
 
 test {
